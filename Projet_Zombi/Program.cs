@@ -10,7 +10,7 @@ namespace Projet_Zombi
     {
         static void Main(string[] args)
         {
-            int vovo = 0;
+            int guigui = 1;
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello World");
         }
