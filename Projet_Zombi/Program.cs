@@ -10,6 +10,7 @@ namespace Projet_Zombi
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
