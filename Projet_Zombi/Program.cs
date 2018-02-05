@@ -12,7 +12,7 @@ namespace Projet_Zombi
         {
             int guigui = 1;
             Console.WriteLine("Hello World");
-            Console.WriteLine("Hello World");
+            Console.WriteLine("World");
         }
     }
 }
